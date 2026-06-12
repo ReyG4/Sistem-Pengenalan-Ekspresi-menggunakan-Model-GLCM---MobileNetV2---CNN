@@ -1,0 +1,25 @@
+{
+  "dataset_dir": "dataset_split",
+  "img_size": 128,
+  "batch_size": 64,
+  "random_seed": 42,
+  "split_test": 0.2,
+  "ekspresi": [
+    "angry",
+    "disgust",
+    "fear",
+    "happy",
+    "neutral",
+    "sad",
+    "surprise"
+  ],
+  "jumlah_per_kelas": {
+    "angry": 4956,
+    "disgust": 3778,
+    "fear": 5121,
+    "happy": 9043,
+    "neutral": 6234,
+    "sad": 6082,
+    "surprise": 4004
+  }
+}
