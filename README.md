@@ -1,0 +1,1 @@
+# Sistem-Pengenalan-Ekspresi-menggunakan-Model-GLCM---MobileNetV2---CNN
